@@ -1,6 +1,7 @@
 # testing
+![alt text](class_diagram_final.png "CommonTasker architecture")
 
-Application structure: 
+### *CommonTasker architecture*
 CommonTasker is a mobile crowdsourcing application developed for the purposes of netcommons in the contect of Community Networks.The structure consists of the entities shown in the Figure. 
 By using CommonTasker, users of the app are able to create different types of tasks and execute them. Tasks can be errands, questions or objects. 
 
@@ -14,8 +15,8 @@ Tasks are grouped into different categories and are presented in the form of lis
 Executors are users able to execute tasks that are created by creators. Executors select the task from the available list items and the different categories available and they accept to attend an errand, answer a question or select available objects shared by the creators.
 
 
+### *Testing procedure for CommonTasker*
 
-Testing procedure for CommonTasker
 
 User test scenarios: 
 
