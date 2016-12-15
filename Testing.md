@@ -16,9 +16,15 @@ Executors are users able to execute tasks that are created by creators. Executor
 
 
 
+
 User test scenarios: 
 
-1. 
-
+General testing issues: 
+1. Verify whether the application has been launched successfully or not. 
+2. Verify whether the splash screen is displayed for time a) too long, b) just enough or c) too small.
+3. Verify that the application’s display is adapted to the screen size and all buttons and menus are easily clickable.
+4. Check that each screen is appropriately displayed in each display mode (landscape, portrait). 
+5. Verify that in the play screen, the back key allows to go back to the start-up screen or not. 
+6. 
 
 
