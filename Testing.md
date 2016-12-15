@@ -1,5 +1,4 @@
 # testing
-Testing procedure for CommonTasker
 
 Application structure: 
 CommonTasker is a mobile crowdsourcing application developed for the purposes of netcommons in the contect of Community Networks.The structure consists of the entities shown in the Figure. 
@@ -16,11 +15,12 @@ Executors are users able to execute tasks that are created by creators. Executor
 
 
 
+Testing procedure for CommonTasker
 
 User test scenarios: 
 
 General testing issues: 
-1. Verify whether the application has been launched successfully or not. 
+1. Verify whether the application has been launched successfully or not. \\ 
 2. Verify whether the splash screen is displayed for time a) too long, b) just enough or c) too small.
 3. Verify that the application’s display is adapted to the screen size and all buttons and menus are easily clickable.
 4. Check that each screen is appropriately displayed in each display mode (landscape, portrait). 
