@@ -46,6 +46,9 @@ User test scenarios:
 
 12. To ensure that the application items are always synchronized according to the user actions. 
 
+13. Verify whether the application faces any problem when the location is deactivated. 
+
+
 
 
 
