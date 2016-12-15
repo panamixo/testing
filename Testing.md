@@ -12,7 +12,13 @@ Creators are users able to create a task i.e. create and post a new errand, crea
 
 Tasks are grouped into different categories and are presented in the form of lists to the users of the app. Each list item (i.e. task) contains its title, a description, a start and finish time, the location, an accompanying picture and the user that has created the task.
 
-Executors are users able to execute tasks that are created by creators. Executors select the task from the available list items and the different categories available and they accept to attend an errand, answer a question or select available objects shared by the creators. 
+Executors are users able to execute tasks that are created by creators. Executors select the task from the available list items and the different categories available and they accept to attend an errand, answer a question or select available objects shared by the creators.
+
+
+
+User test scenarios: 
+
+1. 
 
 
 
