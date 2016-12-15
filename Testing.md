@@ -15,6 +15,7 @@ Tasks are grouped into different categories and are presented in the form of lis
 Executors are users able to execute tasks that are created by creators. Executors select the task from the available list items and the different categories available and they accept to attend an errand, answer a question or select available objects shared by the creators.
 
 
+
 ### *Testing procedure for CommonTasker*
 
 
