@@ -20,7 +20,7 @@ Executors are users able to execute tasks that are created by creators. Executor
 
 User test scenarios: 
 
-General testing issues: 
+
 1. Verify whether the application has been launched successfully or not. 
 
 2. Verify whether the splash screen is displayed for time a) too long, b) just enough or c) too small.
