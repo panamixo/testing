@@ -32,11 +32,11 @@ User test scenarios:
 
 5. Verify that in the play screen, the back key allows to go back to the start-up screen or not. 
 
-6.To validate whether all the required mandatory fields are working as required.
+6. To validate whether all the required mandatory fields are working as required.
 
-7.To validate that the closing of the application is performed from different states and verify if it re-opens in the same state.
+7. To validate that the closing of the application is performed from different states and verify if it re-opens in the same state.
 
-8.Validation of the effective application recovery situation post unexpected interruption/crash scenarios.
+8. Validation of the effective application recovery situation post unexpected interruption/crash scenarios.
 
 9. Methods which deal with exiting the application. 
 
@@ -44,7 +44,7 @@ User test scenarios:
 
 11. To ensure that the short sentences and paragraphs are readable to the end users.
 
-12.To ensure that the application items are always synchronized according to the user actions. 
+12. To ensure that the application items are always synchronized according to the user actions. 
 
 
 
