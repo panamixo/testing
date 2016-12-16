@@ -16,15 +16,20 @@ Executors are users able to execute tasks that are created by creators. Executor
 
 
 
-### *Testing procedure for CommonTasker*
+### *Installing CommonTasker*
 
-For testing CommonTasker please find the 
-User test scenarios: 
+Please find the ,apk file and download it to your smartphone. It will be installed automatically. 
 
+1. Verify whether the application has been installed successfully or not. 
+
+2. Verify whether the application has been installed in a reasonable amount of time.
+
+
+### *Launching CommonTasker*
 
 1. Verify whether the application has been launched successfully or not. 
 
-2. Verify whether the splash screen is displayed for time a) too long, b) just enough or c) too small.
+2. Verify whether the splash screen is installed a reasonable amount of time.
 
 3. Verify that the application’s display is adapted to the screen size and all buttons and menus are easily clickable.
 
