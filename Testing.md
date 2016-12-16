@@ -25,17 +25,111 @@ Please find the ,apk file and download it to your smartphone. It will be install
 2. Verify whether the application has been installed in a reasonable amount of time.
 
 
-### *Launching CommonTasker*
+### *Launching screen*
+Once the application has been installed, you can launch the application and you see the splash screen
+with the text "CommonTasker! Crowdsourcing tasks within the community". 
 
 1. Verify whether the application has been launched successfully or not. 
 
-2. Verify whether the splash screen is installed a reasonable amount of time.
+2. Verify whether the launching screen is displayed at a reasonable amount of time.
 
-3. Verify that the application’s display is adapted to the screen size and all buttons and menus are easily clickable.
 
-4. Check that each screen is appropriately displayed in each display mode (landscape, portrait). 
+### *Welcome screen*
+The welcome screen is loaded after the spash screen finishes. 
 
-5. Verify that in the play screen, the back key allows to go back to the start-up screen or not. 
+
+1. Verify whether the launching screen is displayed at a reasonable amount of time.
+
+2. Verify that the application’s display is adapted to the screen size and all buttons are easily clickable.
+
+3. Check that each screen is appropriately displayed in each display mode (landscape, portrait). 
+
+4. Verify that the text is readable and natural within the screen size. 
+
+
+
+### *HOW DOES IT WORK*
+Press the "HOW DOES IT WORK" button. 
+
+1. Verify that the button is clickable. 
+
+2. Verify that the text in the scrolling screens is properly displayed. 
+
+3. Verify that the scrolling speed does not affect the diplay of the images. 
+
+4. Verify that the pictures diplayed in the scrolling screens are adapted to the screen size. 
+
+5. Verify that the pictures diplayed in the scrolling screens are readable and match the background of the application. 
+
+6. Ensure that the two buttons of "EXIT" and "LET'S TRY IT" are displayed at the final scrolling screen. 
+
+7. Ensure that "EXIT" and "LET'S TRY IT" are readable and match the background. 
+
+8. Ensure whether scrolling backwards works effectively and stops at the initial scrolling screen (without making rounds). 
+
+9. Ensure that the "LET'S TRY IT" button leads you to the log in form. 
+
+10. Ensure that the "EXIT" leads you back to the welcome screen. 
+
+
+### *START*
+Press the "START" button to enter the main menu. 
+
+1. Verify that the main menu display is adapted to the screen size and all the "ERRANDS", "QUESTIONS", "SHARING" buttons are clickable.
+
+2. Verify whether the "ERRANDS", "QUESTIONS", "SHARING" buttons are at an appropriate size and color. 
+
+3. Verify whether the "ERRANDS", "QUESTIONS", "SHARING" buttons are equally spaced. 
+
+
+### *Toolbar*
+
+1. Verify whether the backward button of the toolbar takes you to the welcome screen. 
+
+2. Verify whether the backward button of the phone takes you to the welcome screen. 
+
+3. Verify that the log in icon takes you to the log in screen. 
+
+4. Verify that pressing the button "HERE" takes you to the registration screen. 
+
+5. Veriffy whether all the mandatory fields are necessary. 
+
+6. Verify that names oer 3 letters and telephone numbers below 10 numbers are not accepted. 
+
+7. Verify that the age is accepted only when it is above 18. 
+
+8. Verify that the backwards button takes you back to the log in screen and pressing the backwards button again leads you back to the main menu. 
+
+9. Verify that the telephone icon permits you to call a number of preference or one of the emergency defaults numbers.
+
+10. Verify whether the size of the screen permits you to see the number as you type it. 
+
+11. Verify that you can call the number. 
+
+12. Verify whether in the toolbar you can succesfully log out from the application. 
+
+### *Errands, Questions, Sharing*
+
+The following tests apply for all the buttons "ERRANDS", "QUESTIONS", "SHARING". 
+
+
+1. Verify that they are clickable. 
+
+2. Verify that you can succesfully press "CREATE AN ERRAND", "ASK A QUESTION","SHARE AN OBJECT". 
+
+3. Verify that the forms presented are properly diplayed in the screen (size, colors, buttons). 
+
+4. Verify whether all the button are easily clickable and understandable. 
+
+5. Ensure that all the mandatory fields are required. 
+
+6. Ensure that pictures can load properly. 
+
+6. Ensure that "CREATE" creates a new entry by checking the 
+
+Ensure that it doesn't work with previous dates. 
+
+5. Verify that in the play screen, the back key of the mobile allows to go back to the start-up screen or not. 
 
 6. To validate whether all the required mandatory fields are working as required.
 
