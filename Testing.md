@@ -53,7 +53,7 @@ Press the "HOW DOES IT WORK" button.
 
 1. Verify that the button is clickable. 
 
-2. Verify that the text in the scrolling screens is properly displayed. 
+2. Ensure that the sentences and paragraphs of the text are readable.
 
 3. Verify that the scrolling speed does not affect the diplay of the images. 
 
@@ -119,7 +119,7 @@ The following tests apply for all the buttons "ERRANDS", "QUESTIONS", "SHARING".
 
 3. Verify that the forms presented are properly diplayed in the screen (size, colors, buttons). 
 
-4. Verify whether all the button are easily accessible and understandable. 
+4. Verify whether all the button are easily clickable and understandable. 
 
 5. Ensure that all the mandatory fields are required. 
 
@@ -133,25 +133,27 @@ The following tests apply for all the buttons "ERRANDS", "QUESTIONS", "SHARING".
 
 9. Check if your created entry (in step 7) is part of the list items of each category. 
 
+10. Check if you click on a list item, if you can see its information or not. 
 
 
-5. Verify that in the play screen, the back key of the mobile allows to go back to the start-up screen or not. 
+### *General tests*
 
-6. To validate whether all the required mandatory fields are working as required.
+1. Verify that the application behaves the same under Wi-Fi or 3G/4G connection.
 
-7. To validate that the closing of the application is performed from different states and verify if it re-opens in the same state.
+2. Check if the connection changes from Wi-Fi to 3G/4G and vice versa if it pauses a problem. 
 
-8. Validation of the effective application recovery situation post unexpected interruption/crash scenarios.
+3. Verify that after an incoming call or a message, the application continues to function or crashes. 
 
-9. Methods which deal with exiting the application. 
+4. Verify that the app does behave as intended if the mobile device is shaken.
 
-10. To ensure that the text is kept simple and clear to be visible to the users.
+5. Verify tap on the screen ten times at different positions, the application should work normally and not freeze. 
 
-11. To ensure that the short sentences and paragraphs are readable to the end users.
+Please share any extra comments or suggestions you would like to add. 
 
-12. To ensure that the application items are always synchronized according to the user actions. 
+Thank you for testing CommonTasker!
 
-13. Verify whether the application faces any problem when the location is deactivated. 
+
+
 
 
 
