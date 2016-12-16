@@ -92,9 +92,9 @@ Press the "START" button to enter the main menu.
 
 4. Verify that pressing the button "HERE" takes you to the registration screen. 
 
-5. Veriffy whether all the mandatory fields are necessary. 
+5. Verify whether all the mandatory fields are necessary. 
 
-6. Verify that names oer 3 letters and telephone numbers below 10 numbers are not accepted. 
+6. Verify that names over 3 letters and telephone numbers below 10 numbers are not accepted. 
 
 7. Verify that the age is accepted only when it is above 18. 
 
@@ -115,19 +115,25 @@ The following tests apply for all the buttons "ERRANDS", "QUESTIONS", "SHARING".
 
 1. Verify that they are clickable. 
 
-2. Verify that you can succesfully press "CREATE AN ERRAND", "ASK A QUESTION","SHARE AN OBJECT". 
+2. Verify that "CREATE AN ERRAND", "ASK A QUESTION","SHARE AN OBJECT" are clickable. 
 
 3. Verify that the forms presented are properly diplayed in the screen (size, colors, buttons). 
 
-4. Verify whether all the button are easily clickable and understandable. 
+4. Verify whether all the button are easily accessible and understandable. 
 
 5. Ensure that all the mandatory fields are required. 
 
 6. Ensure that pictures can load properly. 
 
-6. Ensure that "CREATE" creates a new entry by checking the 
+8. Ensure that the form cannot be created if past dates are given as input.
 
-Ensure that it doesn't work with previous dates. 
+7. Ensure that "CREATE" creates a new entry by checking the list item in the appropriate category.  
+ 
+8. Verify that "PERFOM AN ERRAND", "ANSWER A QUESTION","AVAILABLE OBJECTS" takes you to the category list. 
+
+9. Check if your created entry (in step 7) is part of the list items of each category. 
+
+
 
 5. Verify that in the play screen, the back key of the mobile allows to go back to the start-up screen or not. 
 
